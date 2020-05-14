@@ -59,7 +59,7 @@ article {
   padding: 1em;
   position: relative;
   display: grid;
-  grid-template: 10% 1fr / 20% 400px;
+  grid-template: 15% 1fr / 20% 400px;
 }
 
 article h2 {
