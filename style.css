@@ -1,0 +1,19 @@
+#little_number {
+  font-size: .8em;
+  background: hsl(0, 80%, 50%);
+  color: white;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  text-align: center;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  transition: .5s;
+  opacity: 0;
+}
+
+#little_number.visible {
+  opacity: 1;
+}
